@@ -15,6 +15,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-07 | [940. Distinct Subsequences II](07-09-26.md) | ✅ Accepted |
 | 2026-09-08 | [3870. Count Commas in Range](08-09-26.md) | ✅ Accepted |
 | 2026-09-09 | [3871. Count Commas in Range II](09-09-26.md) | ✅ Accepted |
+| 2026-09-10 | [2265. Count Nodes Equal to Average of Subtree](10-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -22,7 +23,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 2, 2026
 ├── ...
-├── 09-09-26.md  # Solution written on September 9, 2026
+├── 10-09-26.md  # Solution written on September 10, 2026
 └── README.md
 ```
 
@@ -36,4 +37,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**9 accepted solutions** documented so far.
+**10 accepted solutions** documented so far.
