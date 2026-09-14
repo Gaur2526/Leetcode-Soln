@@ -19,6 +19,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-11 | [3483. Unique 3-Digit Even Numbers](11-09-26.md) | ✅ Accepted |
 | 2026-09-12 | [3414. Maximum Score of Non-overlapping Intervals](12-09-26.md) | ✅ Accepted |
 | 2026-09-13 | [835. Image Overlap](13-09-26.md) | ✅ Accepted |
+| 2026-09-14 | [836. Rectangle Overlap](14-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -26,7 +27,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 2, 2026
 ├── ...
-├── 13-09-26.md  # Solution written on September 13, 2026
+├── 14-09-26.md  # Solution written on September 14, 2026
 └── README.md
 ```
 
@@ -40,4 +41,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**13 accepted solutions** documented so far.
+**14 accepted solutions** documented so far.
