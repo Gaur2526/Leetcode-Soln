@@ -21,6 +21,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-13 | [835. Image Overlap](13-09-26.md) | ✅ Accepted |
 | 2026-09-14 | [836. Rectangle Overlap](14-09-26.md) | ✅ Accepted |
 | 2026-09-15 | [2472. Maximum Number of Non-overlapping Palindrome Substrings](15-09-26.md) | ✅ Accepted |
+| 2026-09-16 | [1621. Number of Sets of K Non-Overlapping Line Segments](16-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -28,7 +29,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 2, 2026
 ├── ...
-├── 15-09-26.md  # Solution written on September 15, 2026
+├── 16-09-26.md  # Solution written on September 16, 2026
 └── README.md
 ```
 
@@ -42,4 +43,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**15 accepted solutions** documented so far.
+**16 accepted solutions** documented so far.
