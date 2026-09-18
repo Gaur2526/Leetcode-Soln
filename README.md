@@ -22,7 +22,8 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-14 | [836. Rectangle Overlap](14-09-26.md) | ✅ Accepted |
 | 2026-09-15 | [2472. Maximum Number of Non-overlapping Palindrome Substrings](15-09-26.md) | ✅ Accepted |
 | 2026-09-16 | [1621. Number of Sets of K Non-Overlapping Line Segments](16-09-26.md) | ✅ Accepted |
-| 2026-09-16 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](17-09-26.md) | ✅ Accepted |
+| 2026-09-17 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](17-09-26.md) | ✅ Accepted |
+| 2026-09-18 | [1520. Maximum Number of Non-Overlapping Substrings](18-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -30,7 +31,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 2, 2026
 ├── ...
-├── 17-09-26.md  # Solution written on September 17, 2026
+├── 18-09-26.md  # Solution written on September 18, 2026
 └── README.md
 ```
 
@@ -44,4 +45,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**16 accepted solutions** documented so far.
+**18 accepted solutions** documented so far.
