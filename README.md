@@ -25,6 +25,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-17 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](17-09-26.md) | ✅ Accepted |
 | 2026-09-18 | [1520. Maximum Number of Non-Overlapping Substrings](18-09-26.md) | ✅ Accepted |
 | 2026-09-19 | [1401. Circle and Rectangle Overlapping](19-09-26.md) | ✅ Accepted |
+| 2026-09-20 | [3498. Reverse Degree of a String](20-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -32,7 +33,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 2, 2026
 ├── ...
-├── 19-09-26.md  # Solution written on September 19, 2026
+├── 20-09-26.md  # Solution written on September 20, 2026
 └── README.md
 ```
 
@@ -46,4 +47,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**18 accepted solutions** documented so far.
+**20 accepted solutions** documented so far.
