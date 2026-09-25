@@ -30,6 +30,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-22 | [3525. Find X Value of Array II](22-09-26.md) | ✅ Accepted |
 | 2026-09-23 | [1658. Minimum Operations to Reduce X to Zero](23-09-26.md) | ✅ Accepted |
 | 2026-09-24 | [3550. Smallest Index With Digit Sum Equal to Index](24-09-26.md) | ✅ Accepted |
+| 2026-09-25 | [1096. Brace Expansion II](25-09-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -37,7 +38,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 24-09-26.md  # Solution written on September 24, 2026
+├── 25-09-26.md  # Solution written on September 25, 2026
 └── README.md
 ```
 
@@ -51,4 +52,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**24 accepted solutions** documented so far.
+**25 accepted solutions** documented so far.
