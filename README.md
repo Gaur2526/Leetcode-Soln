@@ -34,6 +34,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-09-28 | [1614. Maximum Nesting Depth of the Parentheses](28-09-26.md) | ✅ Accepted |
 | 2026-09-29 | [2267. Check if There Is a Valid Parentheses String Path](29-09-26.md) | ✅ Accepted |
 | 2026-09-30 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](30-09-26.md) | ✅ Accepted |
+| 2026-10-01 | [20. Valid Parentheses](01-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -41,7 +42,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 30-09-26.md  # Solution written on September 30, 2026
+├── 01-10-26.md  # Solution written on October 1, 2026
 └── README.md
 ```
 
@@ -55,4 +56,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**28 accepted solutions** documented so far.
+**29 accepted solutions** documented so far.
