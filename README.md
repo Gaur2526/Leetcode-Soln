@@ -38,6 +38,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-02 | [22. Generate Parentheses](02-10-26.md) | ✅ Accepted |
 | 2026-10-03 | [32. Longest Valid Parentheses](03-10-26.md) | ✅ Accepted |
 | 2026-10-04 | [678. Valid Parenthesis String](04-10-26.md) | ✅ Accepted |
+| 2026-10-05 | [856. Score of Parentheses](05-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -45,7 +46,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 04-10-26.md  # Solution written on October 4, 2026
+├── 05-10-26.md  # Solution written on October 5, 2026
 └── README.md
 ```
 
@@ -59,4 +60,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**32 accepted solutions** documented so far.
+**33 accepted solutions** documented so far.
