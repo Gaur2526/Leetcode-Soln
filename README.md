@@ -44,6 +44,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-08 | [1021. Remove Outermost Parentheses](08-10-26.md) | ✅ Accepted |
 | 2026-10-09 | [1541. Minimum Insertions to Balance a Parentheses String](09-10-26.md) | ✅ Accepted |
 | 2026-10-10 | [2333. Minimum Sum of Squared Difference](10-10-26.md) | ✅ Accepted |
+| 2026-10-11 | [2778. Sum of Squares of Special Elements](11-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -51,7 +52,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 10-10-26.md  # Solution written on October 10, 2026
+├── 11-10-26.md  # Solution written on October 11, 2026
 └── README.md
 ```
 
@@ -65,4 +66,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**38 accepted solutions** documented so far.
+**39 accepted solutions** documented so far.
