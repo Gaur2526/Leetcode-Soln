@@ -45,7 +45,8 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-09 | [1541. Minimum Insertions to Balance a Parentheses String](09-10-26.md) | ✅ Accepted |
 | 2026-10-10 | [2333. Minimum Sum of Squared Difference](10-10-26.md) | ✅ Accepted |
 | 2026-10-11 | [2778. Sum of Squares of Special Elements](11-10-26.md) | ✅ Accepted |
-| 2026-10-12 | [2897. Apply Operations on Array to Maximize Sum of Squares](11-10-26.md) | ✅ Accepted |
+| 2026-10-12 | [2897. Apply Operations on Array to Maximize Sum of Squares](12-10-26.md) | ✅ Accepted |
+| 2026-10-13 | [3727. Maximum Alternating Sum of Squares](13-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -53,7 +54,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 12-10-26.md  # Solution written on October 12, 2026
+├── 13-10-26.md  # Solution written on October 13, 2026
 └── README.md
 ```
 
@@ -67,4 +68,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**40 accepted solutions** documented so far.
+**41 accepted solutions** documented so far.
