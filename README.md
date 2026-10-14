@@ -47,6 +47,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-11 | [2778. Sum of Squares of Special Elements](11-10-26.md) | ✅ Accepted |
 | 2026-10-12 | [2897. Apply Operations on Array to Maximize Sum of Squares](12-10-26.md) | ✅ Accepted |
 | 2026-10-13 | [3727. Maximum Alternating Sum of Squares](13-10-26.md) | ✅ Accepted |
+| 2026-10-13 | [3723. Maximize Sum of Squares of Digits](14-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -54,7 +55,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 13-10-26.md  # Solution written on October 13, 2026
+├── 14-10-26.md  # Solution written on October 14, 2026
 └── README.md
 ```
 
@@ -68,4 +69,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**41 accepted solutions** documented so far.
+**42 accepted solutions** documented so far.
