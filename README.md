@@ -49,6 +49,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-13 | [3727. Maximum Alternating Sum of Squares](13-10-26.md) | ✅ Accepted |
 | 2026-10-14 | [3723. Maximize Sum of Squares of Digits](14-10-26.md) | ✅ Accepted |
 | 2026-10-15 | [2913. Subarrays Distinct Element Sum of Squares I](15-10-26.md) | ✅ Accepted |
+| 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](16-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -56,7 +57,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 15-10-26.md  # Solution written on October 15, 2026
+├── 16-10-26.md  # Solution written on October 16, 2026
 └── README.md
 ```
 
@@ -70,4 +71,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**43 accepted solutions** documented so far.
+**44 accepted solutions** documented so far.
