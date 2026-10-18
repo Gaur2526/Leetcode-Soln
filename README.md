@@ -51,6 +51,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-15 | [2913. Subarrays Distinct Element Sum of Squares I](15-10-26.md) | ✅ Accepted |
 | 2026-10-16 | [2916. Subarrays Distinct Element Sum of Squares II](16-10-26.md) | ✅ Accepted |
 | 2026-10-17 | [3551. Minimum Swaps to Sort by Digit Sum](17-10-26.md) | ✅ Accepted |
+| 2026-10-18 | [1569. Number of Ways to Reorder Array to Get Same BST](18-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -58,7 +59,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 17-10-26.md  # Solution written on October 17, 2026
+├── 18-10-26.md  # Solution written on October 18, 2026
 └── README.md
 ```
 
@@ -72,4 +73,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**45 accepted solutions** documented so far.
+**46 accepted solutions** documented so far.
