@@ -53,6 +53,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-17 | [3551. Minimum Swaps to Sort by Digit Sum](17-10-26.md) | ✅ Accepted |
 | 2026-10-18 | [1569. Number of Ways to Reorder Array to Get Same BST](18-10-26.md) | ✅ Accepted |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](19-10-26.md) | ✅ Accepted |
+| 2026-10-20 | [3886. Sum of Sortable Integers](20-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
@@ -60,7 +61,7 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 .
 ├── 01-09-26.md  # Solution written on September 1, 2026
 ├── ...
-├── 19-10-26.md  # Solution written on October 19, 2026
+├── 20-10-26.md  # Solution written on October 20, 2026
 └── README.md
 ```
 
@@ -74,4 +75,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**47 accepted solutions** documented so far.
+**48 accepted solutions** documented so far.
