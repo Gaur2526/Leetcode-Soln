@@ -55,14 +55,15 @@ A collection of accepted LeetCode solutions, documented as daily Markdown write-
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](19-10-26.md) | ✅ Accepted |
 | 2026-10-20 | [3886. Sum of Sortable Integers](20-10-26.md) | ✅ Accepted |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](21-10-26.md) | ✅ Accepted |
+| 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](22-10-26.md) | ✅ Accepted |
 
 ## Repository Structure
 
 ```text
 .
-├── 01-09-26.md  # Solution written on September 1, 2126
+├── 01-09-26.md  # Solution written on September 1, 2226
 ├── ...
-├── 21-10-26.md  # Solution written on October 21, 2026
+├── 22-10-26.md  # Solution written on October 22, 2026
 └── README.md
 ```
 
@@ -76,4 +77,4 @@ Open any solution file from the table above to review the explanation and code. 
 
 ## Progress
 
-**49 accepted solutions** documented so far.
+**50 accepted solutions** documented so far.
